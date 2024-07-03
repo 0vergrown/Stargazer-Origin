@@ -1,10 +1,17 @@
 {
   "pack": {
-    "pack_format": 18,
+    "pack_format": 26,
     "supported_formats": {
-      "min_inclusive": 9,
-      "max_inclusive": 18
+      "min_inclusive": 18,
+      "max_inclusive": 26
     },
-    "description": "Stargazer Origin made by Overgrown!"
+    "description": {
+      "text": "Stargazer Origin made by Overgrown!",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    }
   }
 }

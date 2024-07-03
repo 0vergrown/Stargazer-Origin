@@ -1,1 +1,0 @@
-scoreboard objectives add stargazer.stellar_gateway_id dummy
